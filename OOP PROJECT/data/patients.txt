@@ -1,2 +1,0 @@
-1,zainab,22,female,03364567891,zainab,6000
-2,dawood,23,male,03364567897,dawood,15000
